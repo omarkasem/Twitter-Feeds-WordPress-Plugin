@@ -1,0 +1,38 @@
+.utf_tweet{
+    border: 1px solid #d4d4d4;
+    overflow: hidden;
+    margin: 15px 0;
+    padding: 10px;
+}
+.utf_tweet a,.utf_tweet a:hover,.utf_tweet i,.utf_tweet i:hover{text-decoration: none!important;box-shadow: none!important;}
+.utf_tweet .utf_tweet_img{
+    float: left;
+}
+.utf_tweet .utf_tweet_img img{
+    border-radius: 50%;
+}
+.utf_tweet .utf_tweet_names{
+    float: left;
+    margin-left: 7px;
+}
+.utf_tweet .utf_tweet_names h4{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+.utf_tweet .utf_tweet_names a{
+    font-size: 13px;
+}
+.utf_tweet p{clear:both;margin-bottom: 6px;font-size: 16px;}
+.utf_tweet p a{color:#DD2E44!important;}
+.utf_tweet .utf_links span{
+    font-size: 13px;
+    margin-right: 20px;
+}
+.utf_tweet .utf_links span i{color:#aab8c2;}
+.utf_tweet .utf_links span i:hover{color:#DD2E44; transition:all .5s ease;}
+.utf_tweet .utf_links span i:before{
+    padding-right: 3px;
+}
+
+.utf_tweet_video,.utf_tweet_image{display: block;margin: 10px 0;}

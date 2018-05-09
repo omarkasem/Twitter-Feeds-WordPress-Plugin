@@ -1,0 +1,14 @@
+#utf_shortcode_div ul li,#utf_urls_div ul li{font-size: 15px;padding:5px 0;font-weight: bold;}
+#utf_shortcode_div ul li input, #utf_urls_div ul li input{width: 38em;
+    background: #f9f9f9;
+    padding: 10px 5px;}
+
+.utf_code{  line-height: 1.8;
+    background: #e2e2e2;
+    padding: 15px;
+    }
+#div_by_search .utf_search_term{    display: block;
+    margin-bottom: 7px;}
+td.utf_row_button{padding: 0}
+.utf-col-left{width: 50;float: left;}
+.utf-col-right{width: 50%;margin-left: 1%;float: right;}
