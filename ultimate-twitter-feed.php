@@ -3,7 +3,7 @@
  * Plugin Name:       Ultimate Twitter Feed
  * Plugin URI:        ultimate-twitter-feed
  * Description:       The only plugin you are going to need to display any twitter feeds, You can display feeds with Unlimited Shortcodes and Widgets, Cache the feeds to speed your website, Finally the most important feature is you won't need to edit any code to dispaly the feeds in your already designed templates, NOW You can generate unlimited json urls and loop through them, Don't know what loop means ? No problem you will get a ready code to just paste in your template..
- * Version:           1.7.1
+ * Version:           1.7.2
  * Author:            Omar Kasem
  * Author URI:        omark
  * Text Domain:       ultimate-twitter-feed
